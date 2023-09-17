@@ -22,10 +22,9 @@ a,
 }
 
 @media (min-width: 1024px) {
-  /*body {*/
-  /*  display: flex;*/
-  /*  place-items: center;*/
-  /*}*/
+  body {
+    padding: 0 2rem !important;
+  }
 
   /*#app {*/
   /*  display: grid;*/

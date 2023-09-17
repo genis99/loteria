@@ -1,6 +1,6 @@
 # loteria
 
-This template should help get you started developing with Vue 3 in Vite.
+Small project to play with probability concepts done with 1h or 2h.
 
 ## Recommended IDE Setup
 
@@ -60,4 +60,3 @@ But it's still recommended to test the production build with `test:e2e` before d
 npm run build
 npm run test:e2e
 ```
-# loteria
